@@ -2,8 +2,6 @@
 
 I'm Pierre-Emmanuel, a software engineer based in Amsterdam, currently at **IMC**.
 
-I mostly work in **Python, C#, Rust and TypeScript/React**. Side projects are where I try new things out.
-
 ### 🚀 Side projects
 
 - **[sf-stats.com](https://sf-stats.com)**: a Street Fighter 6 coaching dashboard showing rank over time per character, matchup
